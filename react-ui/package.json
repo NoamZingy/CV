@@ -9,7 +9,7 @@
     "bootstrap": "^4.6.0",
     "build": "^0.1.4",
     "react": "^16.8.6",
-    "react-bootstrap": "^1.4.3",
+    "react-bootstrap": "^1.5.2",
     "react-dom": "^16.8.6",
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
