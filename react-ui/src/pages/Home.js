@@ -23,7 +23,7 @@ const Home = () =>{
             </button>
     </div>
     </div>
-    <div className="container container-home">
+    <div className="container-home">
 
      
 <section id="best-features" className="text-center">

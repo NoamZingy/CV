@@ -11,7 +11,7 @@ const Recipe = () =>{
         </div>
           <h3 className=' row justify-content-center'>cheesecake with crumbles:</h3>
 <h4 className=' row justify-content-center'>For the dough: </h4>
-<div  className=' row justify-content-center'>
+<div  className=' row justify-content-center recipe'>
 <ul >
 <li>2 cups puffed flour</li>
 <li>2 tablespoons of sugar</li>
@@ -20,18 +20,18 @@ const Recipe = () =>{
 </ul>
 </div>
 <h3 className=' row justify-content-center'>Make dough</h3>
-<p className=' row justify-content-center'> 
+<p className=' row justify-content-center recipe'> 
   Bake in a 2/3 pan (20 minutes) and bake the remaining 1/3 in a separate pan (for crumbs on top)
   </p>
 <h3 className=' row justify-content-center'>For filling:</h3>
-<p className=' row justify-content-center'>
+<p className=' row justify-content-center recipe'>
  In the First bowl, 
  500 g of 9% or 5% cheese
 3/4 cup sugar
 In the second bowl, whip sweet whipped cream while whisking, 
 add 2 tablespoons sugar and a bag of vanilla sugar. Mix the two batter. 
 </p>
-<p className=' row justify-content-center'>
+<p className=' row justify-content-center recipe'>
 Spread on the cooled baked dough. Crumble the extra 1/3 crumbs with a fork and sprinkle over. 
 Refrigerate for at least a few hours before eating.
 Appetite😋
