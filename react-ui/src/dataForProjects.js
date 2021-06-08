@@ -1,69 +1,58 @@
 /* import React from 'react' */
-import img1 from './images/demoImg1.jpg'
-import img2 from './images/demoImg2.jpg'
-import img3 from './images/demoImg3.jpg'
-import img4 from './images/demoImg4.jpg'
-import img5 from './images/demoImg5.jpg'
-import img6 from './images/demoImg6.jpg'
-import img7 from './images/demoImg7.jpg'
-import img8 from './images/demoImg8.jpg'
+import js from './images/js.png'
+import react from './images/react.png'
+import angular from './images/angular.png'
+import node from './images/node.png'
 const items = [
   {
     id: 1,
-    title: 'buttermilk pancakes',
+    title: 'coins project',
     category: 'js',
-    img: img1,
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    img: js,
+    desc: `Demo Website for coins collection `,
+    link: 'https://github.com/NoamZingy/js-coins-project',
   },
   {
     id: 2,
-    title: 'diner double',
-    category: 'react',
-    img: img2,
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    title: 'movies server',
+    category: 'node js',
+    img: node,
+    desc: `example for server i built with node for the movies app `,
+    link: 'https://github.com/NoamZingy/nice-node-project',
   },
   {
-    id: 3,
-    title: 'godzilla milkshake',
+    id: 2,
+    title: 'movies app',
     category: 'js',
-    img: img3,
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    img: js,
+    desc: `Demo app where you can serch and more for any kind of movie `,
+    link: 'https://github.com/NoamZingy/js-movies-app',
   },
   {
     id: 4,
-    title: 'buttermilk pancakes',
-    category: 'js',
-    img: img4,
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    title: 'react-movies-app',
+    category: 'react',
+    img: react,
+    desc: `as you can see i love movies ;) this time the app build with react`,
+    link: 'https://github.com/NoamZingy/react-movies-app',
   },
   {
     id: 5,
-    title: 'diner double',
-    category: 'react',
-    img: img5,
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    title: 'angular store project',
+    category: 'angular',
+    img: angular,
+    desc: `end to end store project `,
+    link: 'https://github.com/NoamZingy/angular-store-project',
   },
   {
     id: 6,
-    title: 'godzilla milkshake',
-    category: 'js',
-    img: img6,
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
-  },
-  {
-    id: 7,
-    title: 'buttermilk pancakes',
-    category: 'js',
-    img: img7,
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  },
-  {
-    id: 8,
-    title: 'diner double',
+    title: 'Bank Project',
     category: 'react',
-    img: img8,
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    img: react,
+    desc: `Demo end to end app for bank website `,
+    link: 'https://github.com/NoamZingy/react-bank-project',
   },
+  
 
 ];
 export default items;

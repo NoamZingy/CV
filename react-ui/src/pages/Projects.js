@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 const Projects = ({items}) => {
   const [projectsMenu, setProjectMenu] = useState(items)
 
- const categories = ['js', 'react', 'all']
+ const categories = ['js', 'react', 'angular', 'node', 'all']
 
   const filterItems = (category) => {
     if (category === 'all') {
@@ -38,11 +38,11 @@ const Projects = ({items}) => {
     <div className='underline'></div>
     <div className='projects' >
       {projectsMenu.map((menuItem) => {
-        const { id, title, img, desc,} = menuItem;
+        const { id, title, img, desc,link} = menuItem;
         return (
 
           <div key={id} className='project'>
-            <img src={img} alt={title}  />
+           <a href={link}><img src={img} alt={title}  /></a> 
             <div className='project-info'>
                 <h4 className='title'>{title}</h4>
               <p >{desc}</p>
