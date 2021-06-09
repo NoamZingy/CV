@@ -70,11 +70,11 @@ Always looking to learn more and improve my skills.
     <FaAngellist className='sociali'/>
       <h4 className="my-4 font-weight-bold">Skills</h4>
       <p className="grey-text">
-      HTML & HTML5CSS & CSS3 & SASSBootstrap Javascript
+      HTML & HTML5,  CSS &  CSS3 & SASS,  Bootstrap,  Javascript,
       <br></br>
-      OOP with TypeScript React.js Angular PHP Basic
+      OOP with TypeScript,  React.js,  Angular,  PHP Basic,
       <br></br>
-      MySQL MongoDB Node.JS Socket.io 
+      MySQL,  MongoDB,  Node.JS,  Socket.io 
 </p>
     </div>
    
