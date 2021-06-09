@@ -19,7 +19,7 @@ const questions = [
       SecondsubTitle:'VAT SERVICE REPRESANTIVE | MILGAM | 2019',
       infoSecondTitle: '·	 Provided service to tourists at the airport',
       infoSecondTitle2: '·		Approved VAT refunds to those eligible',
-      infoSecondTitle3: '·	One of very few authorized to handle big-money transfers',
+      thirdsubTitle: '·	One of very few authorized to handle big-money transfers',
     },
     {
       id: 3,
