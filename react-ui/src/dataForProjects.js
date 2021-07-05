@@ -6,7 +6,7 @@ import node from './images/node.png'
 const items = [
   {
     id: 1,
-    title: 'coins project',
+    title: 'Coins project',
     category: 'js',
     img: js,
     desc: `Demo Website for coins collection `,
@@ -14,7 +14,7 @@ const items = [
   },
   {
     id: 2,
-    title: 'movies server',
+    title: 'Movies server',
     category: 'node',
     img: node,
     desc: `Example for server i built with node for the movies app `,
@@ -22,15 +22,15 @@ const items = [
   },
   {
     id: 3,
-    title: 'movies server',
+    title: 'My CV website',
     category: 'react',
-    img: node,
+    img: react,
     desc: `This Website, which i build from scratch `,
     link: 'https://noam-zingboim-cv.herokuapp.com/',
   },
   {
     id: 4,
-    title: 'movies app',
+    title: 'Movies app',
     category: 'js',
     img: js,
     desc: `Demo app where you can serch and more for any kind of movie `,
@@ -38,15 +38,15 @@ const items = [
   },
   {
     id: 5,
-    title: 'react-movies-app',
+    title: 'React-movies-app',
     category: 'react',
     img: react,
-    desc: `As you can see i love movies ;) this time the app build with react`,
+    desc: `As you can see i like movies ;) this time the app build with react`,
     link: 'https://github.com/NoamZingy/react-movies-app',
   },
   {
     id: 6,
-    title: 'angular store project',
+    title: 'Angular store project',
     category: 'angular',
     img: angular,
     desc: `End to end store project `,

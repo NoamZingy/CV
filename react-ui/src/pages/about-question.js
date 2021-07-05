@@ -25,7 +25,7 @@ const AboutQuestion = ({ id, title, subTitle,  info, secondInfo, SecondsubTitle,
             <h2 className ='subTitle'>{SecondsubTitle || ''}</h2>
             <p className='p-subtitle'>{infoSecondTitle || ''}</p>
             <p className='p-subtitle'>{infoSecondTitle2 || ''}</p>
-            <h2 className ='p-subtitle'>{thirdsubTitle || ''}</h2>
+            <p className ='p-subtitle'>{thirdsubTitle || ''}</p>
             <p className='p-subtitle'>{infoThirdsubTitle || ''}</p>
             <p className='p-subtitle'>{infoThirdsubTitle2 || ''}</p>
               </Card.Body>

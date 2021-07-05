@@ -43,7 +43,7 @@ const Home = () =>{
          in the 'about' page.
          hopefully you will find me the right man for the job 🤩
          if you think i'm not fit for any reason, i dont want you to leave empty handed,
-          here you can find the recipe for my mother's famous cheese cake. 😂🍰</p>
+          here you can find the recipe for my mother's famous cheese cake. 🍰</p>
     </div>
   
 
