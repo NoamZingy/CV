@@ -9,7 +9,7 @@ const items = [
     title: 'Coins project',
     category: 'js',
     img: js,
-    desc: `Demo Website for coins collection `,
+    desc: `Demo Website for virtual coins collection `,
     link: 'https://github.com/NoamZingy/js-coins-project',
   },
   {
@@ -17,7 +17,7 @@ const items = [
     title: 'Movies server',
     category: 'node',
     img: node,
-    desc: `Example for server i built with node for the movies app `,
+    desc: ` An example of a server i built with node for the movies app `,
     link: 'https://github.com/NoamZingy/nice-node-project',
   },
   {
@@ -25,7 +25,7 @@ const items = [
     title: 'My CV website',
     category: 'react',
     img: react,
-    desc: `This Website, which i build from scratch `,
+    desc: `This Website, which i built from scratch `,
     link: 'https://noam-zingboim-cv.herokuapp.com/',
   },
   {
@@ -33,7 +33,7 @@ const items = [
     title: 'Movies app',
     category: 'js',
     img: js,
-    desc: `Demo app where you can serch and more for any kind of movie `,
+    desc: `Demo app where you can search for any kind of movie and more `,
     link: 'https://github.com/NoamZingy/js-movies-app',
   },
   {
@@ -49,7 +49,7 @@ const items = [
     title: 'Angular store project',
     category: 'angular',
     img: angular,
-    desc: `End to end store project `,
+    desc: `End to end store project! `,
     link: 'https://github.com/NoamZingy/angular-store-project',
   },
   {

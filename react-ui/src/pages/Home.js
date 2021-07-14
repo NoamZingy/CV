@@ -39,20 +39,17 @@ const Home = () =>{
 
      
       <p className="grey-text"> Here you can see my projects.
-          nd also you can get to know me a little bit better
-         in the 'about' page.
-         hopefully you will find me the right man for the job 🤩
-         if you think i'm not fit for any reason, i dont want you to leave empty handed,
-          here you can find the recipe for my mother's famous cheese cake. 🍰</p>
-    </div>
-  
-
+          And also you can take a closer look on my CV.
+          And to get to know me a little bit better
+          in the 'about' page.
+          Hopefully you will find me the right man for the job 🤩</p>
+         </div>
   </div>
 
-<div className="row justify-content-center"> 
+{/* <div className="row justify-content-center"> 
     <Link to='/Recipe' className='btn btn-primary'>
       For the cake
-      </Link></div>
+      </Link></div> */}
   <div className="row mt-5">
 
     <div className="col-md-4 mb-5">
@@ -83,8 +80,8 @@ Always looking to learn more and improve my skills.
     <div className="col-md-4 mb-1">
      <FaGlobeAmericas className='sociali'/>
       <h4 className="my-4 font-weight-bold">Hobbies</h4>
-      <p className="grey-text">Loves to travel. Loves sports with an emphasis on running and ball games. 
-      passionate for technology and solving problems successfully and overcome challenges
+      <p className="grey-text">Loves to travel. Loves sports with an excessive affection to running and ball games. 
+      Passionate for technology and solving problems successfully
       </p>
     </div>
   </div>
