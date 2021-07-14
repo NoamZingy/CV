@@ -17,7 +17,7 @@ const items = [
     title: 'Movies server',
     category: 'node',
     img: node,
-    desc: ` An example of a server i built with node for the movies app `,
+    desc: ` An example of a server I built with node for the movies app `,
     link: 'https://github.com/NoamZingy/nice-node-project',
   },
   {
@@ -25,7 +25,7 @@ const items = [
     title: 'My CV website',
     category: 'react',
     img: react,
-    desc: `This Website, which i built from scratch `,
+    desc: `This Website `,
     link: 'https://noam-zingboim-cv.herokuapp.com/',
   },
   {
@@ -41,7 +41,7 @@ const items = [
     title: 'React-movies-app',
     category: 'react',
     img: react,
-    desc: `As you can see i like movies ;) this time the app build with react`,
+    desc: `As you can see I like movies ;) this time I built the app using react`,
     link: 'https://github.com/NoamZingy/react-movies-app',
   },
   {

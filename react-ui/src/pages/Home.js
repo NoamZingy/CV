@@ -38,10 +38,8 @@ const Home = () =>{
     <div className="col-md-8">
 
      
-      <p className="grey-text"> Here you can see my projects.
-          And also you can take a closer look on my CV.
-          And to get to know me a little bit better
-          in the 'about' page.
+      <p className="grey-text"> Here you can see my projects,
+       take a closer look at my CV and get to know me a little better in the 'about' page. 
           Hopefully you will find me the right man for the job 🤩</p>
          </div>
   </div>
@@ -56,8 +54,7 @@ const Home = () =>{
     <FaHandHoldingHeart className='sociali'/>
       <h4 className="my-4 font-weight-bold">Motivation</h4>
       <p className="grey-text">Junior Full-Stack Developer with excellent interpersonal skills.
-Team player, Self-lerner.
-Able to work and produce under stress and limited time.
+Team player, Self-learner.
 Always looking to learn more and improve my skills.
 </p>
     </div>
@@ -80,8 +77,8 @@ Always looking to learn more and improve my skills.
     <div className="col-md-4 mb-1">
      <FaGlobeAmericas className='sociali'/>
       <h4 className="my-4 font-weight-bold">Hobbies</h4>
-      <p className="grey-text">Loves to travel. Loves sports with an excessive affection to running and ball games. 
-      Passionate for technology and solving problems successfully
+      <p className="grey-text">Love to travel, sports, have a strong passion 
+       for technology and solving problems.
       </p>
     </div>
   </div>
