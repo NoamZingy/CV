@@ -5,7 +5,7 @@ import React, { useState } from 'react';
 const Projects = ({items}) => {
   const [projectsMenu, setProjectMenu] = useState(items)
 
- const categories = ['js', 'react', 'angular', 'node', 'all']
+ const categories = ['react', 'angular', 'node', 'all']
 
   const filterItems = (category) => {
     if (category === 'all') {
