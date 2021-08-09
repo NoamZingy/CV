@@ -546,7 +546,9 @@ Projects page
   padding-top: 3rem;
 }
 .project {
-  position: relative;
+ 
+  border: 5px solid var(--clr-black);
+    position: relative;
   overflow: hidden;
 }
 .project img {

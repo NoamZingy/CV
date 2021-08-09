@@ -2,7 +2,7 @@ const questions = [
     {
       id: 1,
       title: 'Education',
-      subTitle: 'FULLSTACK DEVELOPER | 2020-2021 | JHON BRYCE TRAINIG',
+      subTitle: 'FULLSTACK DEVELOPER | 2020-2021 | JOHN BRYCE',
       info:
         'Graduated full stack web development course',
     },

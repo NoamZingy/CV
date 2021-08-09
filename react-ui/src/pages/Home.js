@@ -40,6 +40,7 @@ const Home = () =>{
      
       <p className="grey-text"> Here you can see my projects,<br></br>
        take a closer look at my CV and get to know me a little better in the 'about' page. <br></br>
+       of course you are more then welcome to visit my git account! <br></br>
           Hopefully you will find me the right man for the job 🤩</p>
          </div>
   </div>
